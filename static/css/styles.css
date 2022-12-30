@@ -604,6 +604,11 @@ progress {
   height: auto;
 }
 
+.img-fluidex {
+  max-width: 70%;
+  height: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
