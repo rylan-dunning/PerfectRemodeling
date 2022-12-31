@@ -1,6 +1,5 @@
 <?php
   header("Location: https://www.perfectremodeling.llc");
   exit;
+  include_once("index.html");
 ?>
-
-<?php include_once("index.html");?>
