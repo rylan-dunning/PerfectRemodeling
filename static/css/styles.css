@@ -600,8 +600,9 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 96%;
   height: auto;
+  margin:10px !important;
 }
 
 .img-fluidex {
@@ -616,6 +617,7 @@ progress {
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
+  
 }
 
 .figure {
@@ -791,6 +793,7 @@ progress {
 .col-12 {
   flex: 0 0 auto;
   width: 100%;
+  
 }
 
 .offset-1 {
@@ -910,6 +913,7 @@ progress {
   .row-cols-sm-1 > * {
     flex: 0 0 auto;
     width: 100%;
+    
   }
 
   .row-cols-sm-2 > * {
@@ -1001,6 +1005,7 @@ progress {
   .col-sm-12 {
     flex: 0 0 auto;
     width: 100%;
+    
   }
 
   .offset-sm-0 {
@@ -1124,6 +1129,7 @@ progress {
   .row-cols-md-1 > * {
     flex: 0 0 auto;
     width: 100%;
+    
   }
 
   .row-cols-md-2 > * {
@@ -1214,6 +1220,7 @@ progress {
   .col-md-12 {
     flex: 0 0 auto;
     width: 100%;
+    
   }
 
   .offset-md-0 {
@@ -1337,6 +1344,7 @@ progress {
   .row-cols-lg-1 > * {
     flex: 0 0 auto;
     width: 100%;
+    
   }
 
   .row-cols-lg-2 > * {
