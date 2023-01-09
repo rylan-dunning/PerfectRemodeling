@@ -969,7 +969,7 @@ progress {
 
   .col-sm-6 {
     flex: 0 0 auto;
-    width: 50%;
+    width: 40%;
     margin: 10px !important;
   }
 
@@ -1386,7 +1386,7 @@ progress {
 
   .col-lg-4 {
     flex: 0 0 auto;
-    width: 30.33333333%;
+    width: 20.33333333%;
     margin: 10px !important; /* Add a margin of 10 pixels around the element */
   }
 
