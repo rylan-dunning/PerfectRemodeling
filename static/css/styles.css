@@ -970,6 +970,7 @@ progress {
   .col-sm-6 {
     flex: 0 0 auto;
     width: 50%;
+    margin: 10px !important;
   }
 
   .col-sm-7 {
