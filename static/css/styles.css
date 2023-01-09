@@ -1386,6 +1386,7 @@ progress {
   .col-lg-4 {
     flex: 0 0 auto;
     width: 33.33333333%;
+    margin: 10px; /* Add a margin of 10 pixels around the element */
   }
 
   .col-lg-5 {
